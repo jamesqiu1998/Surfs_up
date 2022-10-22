@@ -10,6 +10,7 @@
 ![image](https://user-images.githubusercontent.com/104419959/197361814-c9c656c2-8e65-4b8e-9f91-69ad432546a5.png)
 
 - Different statistics for the month of June
+
 ![image](https://user-images.githubusercontent.com/104419959/197361681-5c2830c2-28a8-437c-939b-e437133bc1af.png)
 
 - Extracting December temperature
@@ -18,6 +19,7 @@
 ![image](https://user-images.githubusercontent.com/104419959/197361799-93dcf59d-0a8b-4937-998a-645e77be0f76.png)
 
 - DIfferent statistics for the month of December
+
 ![image](https://user-images.githubusercontent.com/104419959/197361701-66cb3086-73f5-4d9c-a76a-8183bd443ff4.png)
 
 ## Summary
